@@ -1,0 +1,6 @@
+{
+  "name": "Operant Systems — AI Automation & Bespoke SMB CRMs",
+  "description": "Bespoke AI workflows, custom internal CRMs, and hands-on operational hiccup management for growing small and medium businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
